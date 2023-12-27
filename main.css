@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 50vh;
+    width: 50%;
+}
